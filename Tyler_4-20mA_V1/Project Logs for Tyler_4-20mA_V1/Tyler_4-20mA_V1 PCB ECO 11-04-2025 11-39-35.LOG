@@ -1,0 +1,47 @@
+Added Component: Designator=C32(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRNPO9BN100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRNPO9BN100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C109318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_3.2X2.5mm)
+Add component (AddParameter): Name = "Brand"; Value = "YXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C12668"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "X322516MOB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD 3.2X2.5mm-4P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=R35-2
+Added Pin To Net: NetName=NetC32_2 Pin=Y1-1
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=U4-3
+Added Pin To Net: NetName=NetC33_2 Pin=Y1-3
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=U4-2
+Added Net: Name=NetR35_1
+Added Member To Class: ClassName=Sheet1 Member=Component C32 10pF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C33 10pF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component R35 1K
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 16MHz

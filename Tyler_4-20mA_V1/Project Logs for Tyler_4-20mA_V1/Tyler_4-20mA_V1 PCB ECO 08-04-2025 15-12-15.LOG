@@ -1,0 +1,48 @@
+Change Component DesignItemId : Designator=DS1 Old DesignItemId=17-21/R6C-AN2Q1B/3T New DesignItemId=19-217/R6C-AL1M2VY/3T
+Change Component DesignItemId : Designator=DS2 Old DesignItemId=17-21/R6C-AN2Q1B/3T New DesignItemId=19-217/R6C-AL1M2VY/3T
+Change Component DesignItemId : Designator=DS3 Old DesignItemId=17-21/R6C-AN2Q1B/3T New DesignItemId=19-217/R6C-AL1M2VY/3T
+Change Component Footprint: Designator=DS1 Old Footprint=LED_0805 New Footprint=LED_0603
+Change Component Footprint: Designator=DS2 Old Footprint=LED_0805 New Footprint=LED_0603
+Change Component Footprint: Designator=DS3 Old Footprint=LED_0805 New Footprint=LED_0603
+Change Component Description : Designator=DS1 Old Description=LED Brillant RED CLEAR SMD New Description=Red LED Indication - Discrete 1.95V 0603 (1608 Metric)
+Change Component Description : Designator=DS2 Old Description=LED Brillant RED CLEAR SMD New Description=Red LED Indication - Discrete 1.95V 0603 (1608 Metric)
+Change Component Description : Designator=DS3 Old Description=LED Brillant RED CLEAR SMD New Description=Red LED Indication - Discrete 1.95V 0603 (1608 Metric)
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES_0603"; UniqueID = "\VWXAFNSZ" ("\VWXAFNSZ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C108078"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES_0603"; UniqueID = "\EBICMZBE" ("\EBICMZBE")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C108078"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES_0603"; UniqueID = "\BGGJSCEB" ("\BGGJSCEB")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C108078"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DS1" ("DS1"); Footprint = "LED_0805"; UniqueID = "\FMLUMQPM" ("\FMLUMQPM")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Everlight Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C72044"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DS2" ("DS2"); Footprint = "LED_0805"; UniqueID = "\IYFMASLO" ("\IYFMASLO")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Everlight Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C72044"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DS3" ("DS3"); Footprint = "LED_0805"; UniqueID = "\ATKJZXZK" ("\ATKJZXZK")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Everlight Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C72044"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "19-217/R6C-AL1M2VY/3T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"

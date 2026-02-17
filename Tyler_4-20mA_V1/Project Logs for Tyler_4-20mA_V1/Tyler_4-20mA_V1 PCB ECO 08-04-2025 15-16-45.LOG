@@ -1,0 +1,33 @@
+Change Component DesignItemId : Designator=R23 Old DesignItemId=R0603-3.3K-1% New DesignItemId=R0603-1K-1%
+Change Component DesignItemId : Designator=R24 Old DesignItemId=R0603-3.3K-1% New DesignItemId=R0603-1K-1%
+Change Component DesignItemId : Designator=R25 Old DesignItemId=R0603-3.3K-1% New DesignItemId=R0603-1K-1%
+Change Component Comment : Designator=R23 Old Comment=3.3K New Comment=1K
+Change Component Comment : Designator=R24 Old Comment=3.3K New Comment=1K
+Change Component Comment : Designator=R25 Old Comment=3.3K New Comment=1K
+Change Component Description : Designator=R23 Old Description=SMD Chip Resistor, 3.3 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 1 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R24 Old Description=SMD Chip Resistor, 3.3 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 1 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R25 Old Description=SMD Chip Resistor, 3.3 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 1 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES_0603"; UniqueID = "\VWXAFNSZ" ("\VWXAFNSZ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C109318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RES_0603"; UniqueID = "\EBICMZBE" ("\EBICMZBE")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C109318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RES_0603"; UniqueID = "\BGGJSCEB" ("\BGGJSCEB")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C109318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"

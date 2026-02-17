@@ -1,0 +1,4 @@
+Added Component: Designator=FP1(Fiducial_Point)
+Added Component: Designator=FP2(Fiducial_Point)
+Added Member To Class: ClassName=Sheet2 Member=Component FP1 Fiducial_Point
+Added Member To Class: ClassName=Sheet2 Member=Component FP2 Fiducial_Point

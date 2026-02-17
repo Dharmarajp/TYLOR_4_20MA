@@ -1,0 +1,273 @@
+Added Component: Designator=C?(CAP_1206)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC1206KKX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_1206)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC1206KKX7R9BB105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0805)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX7R8BB475"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "475"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suppplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=DS?(LED_0805)
+Add component (AddParameter): Name = "Brand"; Value = "Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "17-21/R6C-AN2Q1B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DS?(LED_0805)
+Add component (AddParameter): Name = "Brand"; Value = "Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "17-21/R6C-AN2Q1B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DS?(LED_0805)
+Add component (AddParameter): Name = "Brand"; Value = "Everlight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "17-21/R6C-AN2Q1B/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB?(IND_1206)
+Add component (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "742792113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Added Component: Designator=J?(BERG_5_PIN_M_V_S_2.54mm)
+Add component (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(BERG_2_PIN_M_V_S_2.54mm)
+Add component (AddParameter): Name = "Brand"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Component: Designator=K?(6 x 6 x 7mm_SMD_SW)
+Add component (AddParameter): Name = "Brand"; Value = "WURTH ELEKTRONIK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "430182070816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6X6X7mm"; VariantName = "[No Variations]"
+Added Component: Designator=MH?(MOUNT_HOLE_4mm)
+Added Component: Designator=MH?(MOUNT_HOLE_4mm)
+Added Component: Designator=MH?(MOUNT_HOLE_4mm)
+Added Component: Designator=MH?(MOUNT_HOLE_4mm)
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-073K3L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "3301"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TEST_POINT_SMD)
+Added Component: Designator=TP?(TEST_POINT_SMD)
+Added Component: Designator=U?(STM32G030F8P6)
+Add component (AddParameter): Name = "Brand"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32G030F6P6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=FB?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=K?-2
+Added Pin To Net: NetName=GND Pin=K?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=DS?-A
+Added Pin To Net: NetName=3V3 Pin=DS?-A
+Added Pin To Net: NetName=3V3 Pin=DS?-A
+Added Pin To Net: NetName=3V3 Pin=J?-1
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=R?-2
+Added Pin To Net: NetName=3V3 Pin=U?-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=E-GND Pin=C?-2
+Added Pin To Net: NetName=E-GND Pin=FB?-2
+Added Pin To Net: NetName=E-GND Pin=MH?-1
+Added Pin To Net: NetName=E-GND Pin=MH?-1
+Added Pin To Net: NetName=E-GND Pin=MH?-1
+Added Pin To Net: NetName=E-GND Pin=MH?-1
+Added Net: Name=E-GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J?-5
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetDS?_C Pin=DS?-C
+Added Pin To Net: NetName=NetDS?_C Pin=R?-1
+Added Net: Name=NetDS?_C
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_1 Pin=TP?-1
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=TP?-1
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-17
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=NetU?_8 Pin=U?-8
+Added Net: Name=NetU?_8
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Net: Name=NetU?_13
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Pin To Net: NetName=NRST Pin=R?-2
+Added Pin To Net: NetName=NRST Pin=U?-6
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWCLK Pin=J?-4
+Added Pin To Net: NetName=SWCLK Pin=U?-19
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J?-3
+Added Pin To Net: NetName=SWDIO Pin=U?-18
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USART2_RX Pin=R10-1
+Added Pin To Net: NetName=USART2_RX Pin=R?-1
+Added Pin To Net: NetName=USART2_RX Pin=TP5-1
+Added Pin To Net: NetName=USART2_RX Pin=U?-10
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=R12-1
+Added Pin To Net: NetName=USART2_TX Pin=R?-1
+Added Pin To Net: NetName=USART2_TX Pin=TP6-1
+Added Pin To Net: NetName=USART2_TX Pin=U?-9
+Added Net: Name=USART2_TX
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 4.7uF 25V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF 50V
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1uF 50V
+Added Member To Class: ClassName=Sheet2 Member=Component C? 1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component DS? RED
+Added Member To Class: ClassName=Sheet1 Member=Component DS? RED
+Added Member To Class: ClassName=Sheet1 Member=Component DS? RED
+Added Member To Class: ClassName=Sheet2 Member=Component FB? 120 ohm, 3 A
+Added Member To Class: ClassName=Sheet1 Member=Component J? 61300511121
+Added Member To Class: ClassName=Sheet1 Member=Component J? 61300211121
+Added Member To Class: ClassName=Sheet1 Member=Component K? 430182070816
+Added Member To Class: ClassName=Sheet2 Member=Component MH? MOUNT_HOLE_4mm
+Added Member To Class: ClassName=Sheet2 Member=Component MH? MOUNT_HOLE_4mm
+Added Member To Class: ClassName=Sheet2 Member=Component MH? MOUNT_HOLE_4mm
+Added Member To Class: ClassName=Sheet2 Member=Component MH? MOUNT_HOLE_4mm
+Added Member To Class: ClassName=Sheet1 Member=Component R? 3.3K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 3.3K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 3.3K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TP
+Added Member To Class: ClassName=Sheet1 Member=Component TP? TP
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32G030F6P6

@@ -1,0 +1,6 @@
+Added Component: Designator=LOGO1(ESD_LOGO)
+Added Component: Designator=LOGO2(ROHS_LOGO)
+Added Component: Designator=LOGO3(EWASTE_LOGO)
+Added Member To Class: ClassName=Sheet2 Member=Component LOGO1 ESD LOGO
+Added Member To Class: ClassName=Sheet2 Member=Component LOGO2 ROHS LOGO
+Added Member To Class: ClassName=Sheet2 Member=Component LOGO3 WEEE LOGO

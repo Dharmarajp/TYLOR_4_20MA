@@ -1,0 +1,130 @@
+Change Component DesignItemId : Designator=D3 Old DesignItemId=SMAJ12CAHM3_A/H New DesignItemId=SMAJ33CAHE3_A/H_1
+Change Component Comment : Designator=D3 Old Comment=12V New Comment=33 V
+Change Component Description : Designator=D3 Old Description=TVS Diode, TRANSZORB SMAJ, Bidirectional, 12 V, 19.9 V, DO-214AC (SMA), 2 Pins New Description=TVS Diode, TRANSZORB SMAJ, Bidirectional, 33 V, 53.3 V, DO-214AC (SMA), 2 Pins
+Change component parameters: Designator = "D3" ("D3"); Footprint = "Diode_SMA_DO-214AC"; UniqueID = "\YJELDZTY" ("\YJELDZTY")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Vishay General Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ33CAHE3_A/H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suplier PN"; Value = "C100040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "102"; VariantName = "[No Variations]"
+Added Component: Designator=F2(FUSE_0603)
+Add component (AddParameter): Name = "Brand"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "0ZCM0002FF2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C95204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C95204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_MELF)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP PRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCFRBTNV1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MELF"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C95204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C110776"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TEST_POINT_SMD)
+Added Component: Designator=TP12(TEST_POINT_SMD)
+Added Component: Designator=TP16(TEST_POINT_SMD)
+Added Component: Designator=U9(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Brand"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP6487T-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+5V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=AI_1_OUT Pin=C30-2
+Added Pin To Net: NetName=NetF1_1 Pin=F2-1
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=AI_1_OUT Pin=TP12-1
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=AI_1_OUT Pin=U9-6
+Added Pin To Net: NetName=AI_1_OUT Pin=U9-7
+Added Pin To Net: NetName=+5V Pin=U9-8
+Added Pin To Net: NetName=NetF2_2 Pin=F2-2
+Added Pin To Net: NetName=NetF2_2 Pin=R29-1
+Added Pin To Net: NetName=NetF2_2 Pin=R30-2
+Added Pin To Net: NetName=NetF2_2 Pin=TP11-1
+Added Net: Name=NetF2_2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=R29-2
+Added Pin To Net: NetName=NetR28_1 Pin=U9-3
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_1 Pin=R31-1
+Added Pin To Net: NetName=NetR30_1 Pin=R39-2
+Added Pin To Net: NetName=NetR30_1 Pin=TP16-1
+Added Net: Name=NetR30_1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=R40-1
+Added Pin To Net: NetName=NetR31_2 Pin=U9-2
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U9-1
+Added Pin To Net: NetName=NetR40_2 Pin=U9-5
+Added Net: Name=NetR40_2
+Added Member To Class: ClassName=Sheet1 Member=Component C16 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C30 1nF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component F2 60V,20mA
+Added Member To Class: ClassName=Sheet1 Member=Component R28 10K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R29 10K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R30 100R 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R31 10K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R39 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R40 1K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component TP11 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component TP12 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component TP16 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component U9 MCP6487T-E/SN

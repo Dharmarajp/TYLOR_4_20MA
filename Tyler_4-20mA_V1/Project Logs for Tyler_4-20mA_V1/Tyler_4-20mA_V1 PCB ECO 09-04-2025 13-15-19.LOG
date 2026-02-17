@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=C13 Old DesignItemId=C0603-0.1uF 50V-MLCC New DesignItemId=C0603-1uF 50V-MLCC
+Change Component Comment : Designator=C13 Old Comment=0.1uF 50V New Comment=1uF
+Change Component Description : Designator=C13 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0603 [1608 Metric], ± 10%, X7R New Description=SMD Multilayer Ceramic 1 µF ±10% 50V Ceramic Capacitor X7R 0603 (2012 Metric)
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP_0603"; UniqueID = "\HDWUZEAX" ("\HDWUZEAX")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C559769"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+3V3 Pin=C1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.1uF 50V

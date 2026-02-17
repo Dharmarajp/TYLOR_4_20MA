@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+24V Pin=J2-4
+Added Pin To Net: NetName=VIN Pin=J2-4

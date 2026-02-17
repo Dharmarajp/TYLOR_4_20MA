@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Tyler_4-20mA_V1.PrjPcb]
+   Generated File[Tyler_4-20mA_V1.TXT]
+   Generated File[Tyler_4-20mA_V1.LDP]
+   Generated File[Tyler_4-20mA_V1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:22:06 On 11-04-2025

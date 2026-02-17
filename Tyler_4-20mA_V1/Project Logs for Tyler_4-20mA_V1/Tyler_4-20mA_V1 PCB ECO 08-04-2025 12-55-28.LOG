@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+24V Pin=J1-1
+Removed Pin From Net: NetName=NetF1_1 Pin=J1-2
+Removed Pin From Net: NetName=NetF2_1 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Member From Class: ClassName=Sheet2 Member=J1
+Change Component DesignItemId : Designator=J3 Old DesignItemId=WAGO250_102 New DesignItemId=WAGO250_104
+Change Component Footprint: Designator=J3 Old Footprint=WAGO250_102 New Footprint=WAGO250_104
+Change Component Comment : Designator=J3 Old Comment=WAGO250_102 New Comment=WAGO250 104
+Change Component Description : Designator=J3 Old Description=PCB terminal block; push-button; 1.5 mm²; Pin spacing 3.5 mm; 2-pole; Push-in CAGE CLAMP®; 1,50 mm²; gray New Description=4 Position Wire to Board Terminal Block 45° (135°) Angle with Board 0.138" (3.50mm) Through Hole
+Change component parameters: Designator = "J3" ("J3"); Footprint = "WAGO250_102"; UniqueID = "\UEJBCADQ" ("\UEJBCADQ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "WAGO Corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "250-104/000-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

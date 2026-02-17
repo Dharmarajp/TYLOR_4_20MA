@@ -1,0 +1,89 @@
+Removed Member From Class: ClassName=Sheet1 Member=C2
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Removed Member From Class: ClassName=Sheet1 Member=C5
+Removed Member From Class: ClassName=Sheet1 Member=C7
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Sheet1 Member=C10
+Removed Member From Class: ClassName=Sheet1 Member=C11
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet2 Member=C19
+Removed Member From Class: ClassName=Sheet2 Member=C22
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=DS1
+Removed Member From Class: ClassName=Sheet1 Member=DS2
+Removed Member From Class: ClassName=Sheet1 Member=FB1
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=R1
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet2 Member=R25
+Removed Member From Class: ClassName=Sheet1 Member=TP1
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Removed Member From Class: ClassName=Sheet1 Member=U2
+Removed Member From Class: ClassName=Sheet2 Member=U4
+Added Component: Designator=C30(CAP_ELE_AL_6.3X7.7)
+Add component (AddParameter): Name = "Brand"; Value = "MULTICOMP PRO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCVVT035M101EA6L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6.3X7.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Element 14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+24V Pin=C30-2
+Added Member To Class: ClassName=Sheet2 Member=Component C1 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component C3 100uF 35V
+Added Member To Class: ClassName=Sheet2 Member=Component C10 1nF 50V
+Added Member To Class: ClassName=Sheet2 Member=Component C11 200K
+Added Member To Class: ClassName=Sheet2 Member=Component C14 1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C16 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C18 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C20 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C21 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C23 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C25 1nF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C26 0.1uF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C27 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C28 10nF 50V
+Added Member To Class: ClassName=Sheet1 Member=Component C30 100uF 35V
+Added Member To Class: ClassName=Sheet2 Member=Component D1 SS34-HF
+Added Member To Class: ClassName=Sheet2 Member=Component D2 33 V
+Added Member To Class: ClassName=Sheet2 Member=Component D4 SMAJ12CAHM3_A/H
+Added Member To Class: ClassName=Sheet2 Member=Component D5 SMAJ12CAHM3_A/H
+Added Member To Class: ClassName=Sheet1 Member=Component D7 33 V
+Added Member To Class: ClassName=Sheet1 Member=Component DS4 RED
+Added Member To Class: ClassName=Sheet1 Member=Component DS5 RED
+Added Member To Class: ClassName=Sheet1 Member=Component FB3 600 ohm,300mA
+Added Member To Class: ClassName=Sheet1 Member=Component J2 10p
+Added Member To Class: ClassName=Sheet2 Member=Component L2 DLW43SH510XK2L
+Added Member To Class: ClassName=Sheet2 Member=Component R7 30K
+Added Member To Class: ClassName=Sheet2 Member=Component R9 4.7K
+Added Member To Class: ClassName=Sheet2 Member=Component R11 10R
+Added Member To Class: ClassName=Sheet2 Member=Component R13 10R
+Added Member To Class: ClassName=Sheet2 Member=Component R15 10R
+Added Member To Class: ClassName=Sheet2 Member=Component R17 4.7K
+Added Member To Class: ClassName=Sheet1 Member=Component R19 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R21 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 10K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R27 33E
+Added Member To Class: ClassName=Sheet1 Member=Component R29 0R
+Added Member To Class: ClassName=Sheet1 Member=Component R30 1K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R31 100K 0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component R34 250R-0.1%
+Added Member To Class: ClassName=Sheet1 Member=Component TP11 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component TP12 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet1 Member=Component TP13 TEST_POINT_SMD
+Added Member To Class: ClassName=Sheet2 Member=Component U2 LM1117MP-3.3/NOPB
+Added Member To Class: ClassName=Sheet2 Member=Component U3 MAX485ESA+T
+Added Member To Class: ClassName=Sheet1 Member=Component U5 MCP6487T-E/SN
+Added Member To Class: ClassName=Sheet1 Member=Component U6 ADUM140D0BRZ
+Added Member To Class: ClassName=Sheet1 Member=Component U7 XTR116UA
+Added Member To Class: ClassName=Sheet1 Member=Component U8 MAX5216BGUA
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0mm New=2.54mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=2.54mm New=0mm

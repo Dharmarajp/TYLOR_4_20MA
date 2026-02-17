@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetF1_2 Pin=TP9-1
+Change Component DesignItemId : Designator=R32 Old DesignItemId=R0603-2.4K-0.1% New DesignItemId=R0603-2K4-0.1%
+Change Component DesignItemId : Designator=R34 Old DesignItemId=R1206-250R-0.1% New DesignItemId=R1210-499R-1%
+Change Component Footprint: Designator=R34 Old Footprint=RES_1206 New Footprint=RES_1210
+Change Component Comment : Designator=R32 Old Comment=2.4K-0.1% New Comment=2.4K 0.1%
+Change Component Comment : Designator=R34 Old Comment=250R-0.1% New Comment=499R 1%
+Change Component Description : Designator=R34 Old Description=RES, 250R, 0.1%, 0.125W, 1206, THIN FILM New Description=0.5W Thick Film Resistors ±100ppm/? ±1% 499O 1210 Chip Resistor - Surface Mount ROHS
+Change Component Description : Designator=R32 Old Description=SMD Chip Resistor, 2.4 kohm, ± 0.1%, 62.5 mW, 0603 [1608 Metric], Thin Film, Precision New Description=SMD Chip Resistor, 2.4 kohm, ± 0.1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose
+Change component parameters: Designator = "R32" ("R32"); Footprint = "RES_0603"; UniqueID = "\ZINTGBYA" ("\ZINTGBYA")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C861300"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RT0603BRD072K4L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "RES_1206"; UniqueID = "\UKTKCBBX" ("\UKTKCBBX")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "RC1210FR-07499RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1210FR-07499RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP_0603)
+Add component (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "102"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR26_1 Pin=C?-1
+Added Pin To Net: NetName=NetF1_2 Pin=C?-2
+Change Net Name : Old Net Name=NetF1_2 New Net Name=NetC?_2
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetC?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? 1nF

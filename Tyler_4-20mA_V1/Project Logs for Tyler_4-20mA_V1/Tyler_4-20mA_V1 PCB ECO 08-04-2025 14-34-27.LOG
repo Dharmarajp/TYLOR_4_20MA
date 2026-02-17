@@ -1,0 +1,86 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=3V3 Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=SWDIO Pin=J5-3
+Removed Pin From Net: NetName=SWCLK Pin=J5-4
+Removed Pin From Net: NetName=NetC15_2 Pin=J5-5
+Removed Pin From Net: NetName=GND Pin=K1-2
+Removed Pin From Net: NetName=GND Pin=K1-3
+Removed Pin From Net: NetName=3V3 Pin=R26-2
+Removed Pin From Net: NetName=3V3 Pin=R28-2
+Removed Pin From Net: NetName=SWDIO Pin=U6-18
+Removed Pin From Net: NetName=SWCLK Pin=U6-19
+Removed Member From Class: ClassName=Sheet1 Member=C16
+Removed Member From Class: ClassName=Sheet1 Member=J5
+Removed Member From Class: ClassName=Sheet1 Member=K1
+Removed Member From Class: ClassName=Sheet1 Member=R28
+Removed Member From Class: ClassName=Sheet1 Member=R30
+Change Component Comment : Designator=C15 Old Comment=0.1uF 50V New Comment=100nF
+Change component parameters: Designator = "R27" ("R27"); Footprint = "RES_0603"; UniqueID = "\YQGBWMVX" ("\YQGBWMVX")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C109318"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "1001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP_0603"; UniqueID = "\EIJIZBJX" ("\EIJIZBJX")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C14663"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RES_0603"; UniqueID = "\SOUXMHHL" ("\SOUXMHHL")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C98220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "1002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOT23)
+Add component (AddParameter): Name = "Brand"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C531167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MMBZ5V6AL-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Added Component: Designator=J1(FTS-105-01-F-DV)
+Add component (AddParameter): Name = "Brand"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Local"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Web"; Value = "http://suddendocs.samtec.com/catalog_english/fts.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DNP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part"; Value = "C3348793"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FTS-105-01-F-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIPL Id"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MIPL Status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Remarks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header - Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5X2 POS, 1.27mmP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWCLK Pin=D6-1
+Added Pin To Net: NetName=SWDIO Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D6-3
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=NetC15_2 Pin=J1-10
+Added Pin To Net: NetName=+3V3 Pin=R26-2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NRST
+Change Net Name : Old Net Name=NRST New Net Name=NetR27_2
+Added Pin To Net: NetName=NetU6_3 Pin=U6-3
+Added Net: Name=NetU6_3
+Added Pin To Net: NetName=NetU6_18 Pin=U6-18
+Added Net: Name=NetU6_18
+Added Pin To Net: NetName=NetU6_19 Pin=U6-19
+Added Net: Name=NetU6_19
+Added Pin To Net: NetName=SWO Pin=J1-6
+Added Net: Name=SWO
+Added Member To Class: ClassName=Sheet1 Member=Component D6 MMBZ5V6AL-7-F
+Added Member To Class: ClassName=Sheet1 Member=Component J1 10p

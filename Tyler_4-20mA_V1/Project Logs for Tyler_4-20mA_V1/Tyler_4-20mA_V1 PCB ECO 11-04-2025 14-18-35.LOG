@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=D4-A
+Removed Pin From Net: NetName=B Pin=D4-C
+Removed Pin From Net: NetName=GND Pin=D5-A
+Removed Pin From Net: NetName=A Pin=D5-C
+Removed Member From Class: ClassName=Sheet2 Member=D5
+Change Component Footprint: Designator=D4 Old Footprint=Diode_SMA_DO-214AC New Footprint=SOT23
+Change Component Comment : Designator=D4 Old Comment=SMAJ12CAHM3_A/H New Comment=SM712-02HTG
+Change component parameters: Designator = "D4" ("D4"); Footprint = "Diode_SMA_DO-214AC"; UniqueID = "\TODUDFMC" ("\TODUDFMC")
+Change component parameters (AddParameter): Name = "Brand"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SM712-02HTG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B Pin=D4-1
+Added Pin To Net: NetName=A Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D4-3

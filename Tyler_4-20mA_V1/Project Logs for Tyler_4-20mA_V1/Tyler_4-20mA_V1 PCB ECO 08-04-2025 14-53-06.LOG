@@ -1,0 +1,73 @@
+Change Component DesignItemId : Designator=C10 Old DesignItemId=C1206-1uF 50V-MLCC New DesignItemId=C0805-1uF 50V-MLCC
+Change Component DesignItemId : Designator=C11 Old DesignItemId=C1206-1uF 50V-MLCC New DesignItemId=C0805-1uF 50V-MLCC
+Change Component DesignItemId : Designator=C18 Old DesignItemId=C1206-1uF 50V-MLCC New DesignItemId=C0805-1uF 50V-MLCC
+Change Component DesignItemId : Designator=C23 Old DesignItemId=C1206-1uF 50V-MLCC New DesignItemId=C0805-1uF 50V-MLCC
+Change Component DesignItemId : Designator=R9 Old DesignItemId=R0603-10E-1% New DesignItemId=R0805-10R-1%
+Change Component DesignItemId : Designator=R13 Old DesignItemId=R0603-10E-1% New DesignItemId=R0805-10R-1%
+Change Component DesignItemId : Designator=R11 Old DesignItemId=RC1206FR-07120RL New DesignItemId=R1206-120E-1%
+Change Component Footprint: Designator=C10 Old Footprint=CAP_1206 New Footprint=CAP_0805
+Change Component Footprint: Designator=C11 Old Footprint=CAP_1206 New Footprint=CAP_0805
+Change Component Footprint: Designator=C18 Old Footprint=CAP_1206 New Footprint=CAP_0805
+Change Component Footprint: Designator=C23 Old Footprint=CAP_1206 New Footprint=CAP_0805
+Change Component Footprint: Designator=R9 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R13 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Comment : Designator=C10 Old Comment=1uF 50V New Comment=1uF
+Change Component Comment : Designator=C11 Old Comment=1uF 50V New Comment=1uF
+Change Component Description : Designator=R9 Old Description=SMD Chip Resistor, 10 ohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R13 Old Description=SMD Chip Resistor, 10 ohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=C10 Old Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R, -55 °C New Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, -55 °C
+Change Component Description : Designator=C11 Old Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R, -55 °C New Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, -55 °C
+Change Component Description : Designator=C18 Old Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R, -55 °C New Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, -55 °C
+Change Component Description : Designator=C23 Old Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R, -55 °C New Description=SMD Multilayer Ceramic Capacitor, 1 µF, 50 V, 0805 [2012 Metric], ± 10%, X7R, -55 °C
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_1206"; UniqueID = "\YUTHWOUU" ("\YUTHWOUU")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C91185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "CAP_1206"; UniqueID = "\KWEFAQBF" ("\KWEFAQBF")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C91185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RES_0603"; UniqueID = "\VXKFFBZJ" ("\VXKFFBZJ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C96347"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-0710RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "10R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RES_0603"; UniqueID = "\LYSDEGZZ" ("\LYSDEGZZ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C96347"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-0710RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "10R0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP_1206"; UniqueID = "\MTHNHIWA" ("\MTHNHIWA")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C91185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_1206"; UniqueID = "\GUREEFMK" ("\GUREEFMK")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C91185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0805KKX7R9BB105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RES_1206"; UniqueID = "\PJUOKHCJ" ("\PJUOKHCJ")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part"; Value = "C114928"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC1206FR-07120RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "120R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\MCWane\02_Projects\11_Test_Bench_Tyler\01_Hardware\Tyler_4_20mA_V1\Tyler_4-20mA_V1\Tyler_4-20mA_V1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.36
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

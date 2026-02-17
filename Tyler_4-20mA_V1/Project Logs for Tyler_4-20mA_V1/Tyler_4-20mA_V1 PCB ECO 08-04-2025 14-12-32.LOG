@@ -1,0 +1,20 @@
+Change Component DesignItemId : Designator=C27 Old DesignItemId=C0603-8.2nF 50V-MLCC New DesignItemId=R0603-200K-1%
+Change Component DesignItemId : Designator=D4 Old DesignItemId=SMCJ33A New DesignItemId=SMAJ33CAHE3_A/H_1
+Change Component Footprint: Designator=C27 Old Footprint=CAP_0603 New Footprint=RES_0603
+Change Component Footprint: Designator=D4 Old Footprint=DIODE_SMC_DO-214AB New Footprint=Diode_SMA_DO-214AC
+Change Component Comment : Designator=C27 Old Comment=8.2nF 50V New Comment=200K
+Change Component Description : Designator=D4 Old Description=53.3V Clamp 28.2A Ipp Tvs Diode Surface Mount DO-214AB (SMCJ) New Description=TVS Diode, TRANSZORB SMAJ, Bidirectional, 33 V, 53.3 V, DO-214AC (SMA), 2 Pins
+Change Component Description : Designator=C27 Old Description=SMD Multilayer Ceramic Capacitor, 8200 pF, 50 V, 0603 [1608 Metric], ± 10%, X7R New Description=SMD Chip Resistor, 200 kohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAP_0603"; UniqueID = "\JGBIJINC" ("\JGBIJINC")
+Change component parameters (AddParameter): Name = "Brand"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-07200KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = "2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ELEMENT 14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIODE_SMC_DO-214AB"; UniqueID = "\ESOJVBRF" ("\ESOJVBRF")
+Change component parameters (AddParameter): Name = "Brand"; Value = "Vishay General Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ33CAHE3_A/H"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
